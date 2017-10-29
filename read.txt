@@ -1,1 +1,2 @@
 ﻿git is a free software
+it is easy to master
